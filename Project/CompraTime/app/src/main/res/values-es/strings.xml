@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compra Time</string>
+    <string name="list_title">Lista de compra</string>
+    <string name="btn_add_producto_to_list">Añadir producto</string>
+    <string name="product_list_title">Lista de productos</string>
+    <string name="btn_add_producto_to_db">Nuevo producto</string>
+    <string name="shopping_list">Lista de la compra</string>
+    <string name="product_list">Lista de productos</string>
+    <string name="product_price">Precio del producto</string>
+    <string name="product_name">Nombre del producto</string>
+    <string name="total">Total</string>
+</resources>

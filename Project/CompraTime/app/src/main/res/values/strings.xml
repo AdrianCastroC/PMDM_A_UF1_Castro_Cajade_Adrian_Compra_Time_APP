@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping Time</string>
+    <string name="list_title">Shopping list</string>
+    <string name="btn_add_producto_to_list">Add product</string>
+    <string name="product_list_title">Product list</string>
+    <string name="btn_add_producto_to_db">New product</string>
+    <string name="shopping_list">Shopping list</string>
+    <string name="product_list">Product list</string>
+    <string name="product_price">product price</string>
+    <string name="product_name">Product name</string>
+    <string name="total">Amount</string>
+</resources>
